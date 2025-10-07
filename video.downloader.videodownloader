@@ -1,9 +1,10 @@
 {
+  "show_update": false,
   "title": "🚀 New Update Available! (v2.4.7)",
   "message": "We're excited to introduce version 2.4.7 — packed with awesome new features and improvements!\n\n✨ **What’s New:**\n• Fresh modern UI with smoother animations\n• Faster note loading and offline performance boost\n• New local backup system (TXT, PDF, JSON export)\n• Enhanced dark mode with better contrast\n• Fixed minor bugs & improved stability\n\n👉 Tap **Update Now** to get the latest version from our Telegram channel!",
   "button_text_update": "Update Now",
   "url": "https://t.me/modapphub1",
-  "force_update": true,
+  "force_update": false,
   "show_dont_show_checkbox": false,
   "version_code": "2.4.7",
   "release_date": "2025-10-07"
