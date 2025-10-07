@@ -1,7 +1,10 @@
 {
-  "version": "2.4.6",
-  "title": "🚀 New Version Available!",
-  "message": "We’ve added new features and fixed bugs. Update now for a smoother experience!",
-  "button_text": "Update Now",
-  "url": "https://t.me/modapphub1"
+  "enabled": true,
+  "title": "New version available!",
+  "message": "Update now to the latest version for new features and bug fixes.\n\nClick Update to go to our Telegram channel.",
+  "button_text_update": "Update now",
+  "button_text_later": "Later",
+  "url": "https://t.me/modapphub1",
+  "force_update": false,
+  "show_dont_show_checkbox": true
 }
