@@ -1,11 +1,7 @@
 {
-  "latest_version_name": "2.0",     <-- নতুন ভার্সন নাম
-  "latest_version_code": 2,         <-- নতুন ভার্সন কোড
-  "changelog": [
-    "New features added",
-    "Bug fixes",
-    "Performance improvements"
-  ],
-  "force_update": true,               <-- চাইলে true করে বাধ্যতামূলক আপডেট
-  "telegram_url": "https://t.me/modapphub1"
+  "version": "2.4.6",
+  "title": "🚀 New Version Available!",
+  "message": "We’ve added new features and fixed bugs. Update now for a smoother experience!",
+  "button_text": "Update Now",
+  "url": "https://t.me/modapphub1"
 }
