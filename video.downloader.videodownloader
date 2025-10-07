@@ -1,0 +1,8 @@
+{
+  "title": "New version available!",
+  "message": "Update now to the latest version for new features and bug fixes.\n\nClick Update to go to our Telegram channel.",
+  "button_text_update": "Update now",
+  "url": "https://t.me/modapphub1",
+  "force_update": true,
+  "show_dont_show_checkbox": false
+}
