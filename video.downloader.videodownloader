@@ -5,6 +5,6 @@
   "button_text_update": "Update now",
   "button_text_later": "Later",
   "url": "https://t.me/modapphub1",
-  "force_update": false,
-  "show_dont_show_checkbox": true
+  "force_update": true,
+  "show_dont_show_checkbox": false
 }
